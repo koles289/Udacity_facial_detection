@@ -2,6 +2,10 @@
 
 Gola of this project was building a facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints on each face.
 
-Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition. 
+Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition and emotion recognition. 
 
 In the project we designed our ouwn neural network architecture with several convolutional a drop out layers. Due to practical reasons, the compromise had o be taken into account while designing architecture, as the training load was quite heavy.
+
+As seen on the pictures, the detected facial keypoint (<i>left image</i>) can be even used for applying varius facial filters that are found on smartphones applications.
+<img src="https://github.com/koles289/Newton_rings/blob/master/blue_4x_2.png" width="440"> <img src="https://github.com/koles289/Newton_rings/blob/master/green_10x_3.png" width="440">
+

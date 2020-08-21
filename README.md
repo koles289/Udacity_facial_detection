@@ -1,4 +1,4 @@
-# Udacity facial detection  Facial detection using custom made neural network and haar filters
+# UDACITY FACIAL DETECTION <br>Facial detection using custom made neural network and haar filters
 
 Gola of this project was building a facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints on each face.
 
